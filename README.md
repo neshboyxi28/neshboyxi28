@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neshboyxi28
 - 👀 I’m interested in HTML
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on Python
+- 💞️ I’m looking to collaborate on HTML
 - 📫 How to reach me by my email and my discord.
 
 <!---
